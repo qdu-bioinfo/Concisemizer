@@ -4,4 +4,4 @@ This is a seed extraction algorithm. It builds upon the minimizer and conducts f
 
 2.The files "concisemizer_lexicon.cpp", "concisemizer_random.cpp", "minimizer_lexicon.cpp" and "minimizer_random.cpp" contain the C++ implementation codes for the algorithms used for minimizing and simplifying the seed extraction process, and they calculate the density factor and E-hit rate. The header comments of this source code provide explanations of the operation methods. 
 
-Additionally: The file "Supplementary1_Evaluation_indicators.pdf" contains the density factors and E-hits for six reference genomes at different k-mer lengths.
+Additionally: The file "Supplementary1_The results of density and E-hits.xlsx" contains the density factors and E-hit counts for six reference genomes under different k_mer lengths and window sizes. The file "Supplementary2_The results compared with minimap2.xlsx" contains the comparison results of time and space for sequence alignment between minimap2 and minimap2-concisemizer.
